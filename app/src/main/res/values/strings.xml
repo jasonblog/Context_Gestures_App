@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appGestosContextuales</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ibtnAirea">Aire acondicionado</string>
+    <string name="airea">Aire acondicionado</string>
+    <string name="luces">Luces</string>
+    <string name="lugar">Lugar</string>
+    <string name="oficina">Oficina</string>
+    <string name="juntas">Sala de juntas</string>
+    <string name="descanso">Sala de descanso</string>
+    <string name="persianas">Persianas</string>
+    <string name="presentadora">Presentadora</string>
+    <string name="tv">Televisión</string>
+
+</resources>
